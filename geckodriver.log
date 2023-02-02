@@ -1,0 +1,131 @@
+1667355396627	geckodriver	INFO	Listening on 127.0.0.1:58457
+1667355399680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58458" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileS5cOXw"
+1667355400349	Marionette	INFO	Marionette enabled
+1667355400355	Marionette	INFO	Listening on port 58465
+WebDriver BiDi listening on ws://localhost:58458
+1667355401198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileS5cOXw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58458/devtools/browser/0e71838a-c6fd-4e5a-9c80-a5fb2ee175e8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667355451847	Marionette	INFO	Stopped listening on port 58465
+1667357631601	geckodriver	INFO	Listening on 127.0.0.1:59574
+1667357634704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59575" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileN1mA7f"
+1667357635990	Marionette	INFO	Marionette enabled
+1667357636013	Marionette	INFO	Listening on port 59582
+WebDriver BiDi listening on ws://localhost:59575
+1667357636337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileN1mA7f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59575/devtools/browser/df465aa1-f022-45d9-b8d3-889dd6768621
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667357688873	Marionette	INFO	Stopped listening on port 59582
+1667358111961	geckodriver	INFO	Listening on 127.0.0.1:60237
+1667358115039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60238" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileKaBNEB"
+1667358115566	Marionette	INFO	Marionette enabled
+1667358115572	Marionette	INFO	Listening on port 60245
+WebDriver BiDi listening on ws://localhost:60238
+1667358116204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileKaBNEB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60238/devtools/browser/eb26a017-da37-4777-8420-5556a7a8ea7e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667358158025	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667358165493	Marionette	INFO	Stopped listening on port 60245
+1667358277052	geckodriver	INFO	Listening on 127.0.0.1:60673
+1667358280127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60674" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileW3sOFh"
+1667358280643	Marionette	INFO	Marionette enabled
+1667358280649	Marionette	INFO	Listening on port 60681
+WebDriver BiDi listening on ws://localhost:60674
+1667358281276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileW3sOFh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60674/devtools/browser/c2dca367-59f5-420a-b800-0a5983aa69e8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667358331868	Marionette	INFO	Stopped listening on port 60681
+1667382545150	geckodriver	INFO	Listening on 127.0.0.1:53135
+1667382548229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53136" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofilez1rLPq"
+1667382550379	Marionette	INFO	Marionette enabled
+1667382550385	Marionette	INFO	Listening on port 53141
+WebDriver BiDi listening on ws://localhost:53136
+1667382550546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofilez1rLPq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53136/devtools/browser/2777c0e6-8412-4493-af4b-8f6605197686
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667382600626	Marionette	INFO	Stopped listening on port 53141
+1667481163141	geckodriver	INFO	Listening on 127.0.0.1:53314
+1667481166194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53315" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileW6JwZR"
+1667481168583	Marionette	INFO	Marionette enabled
+1667481168595	Marionette	INFO	Listening on port 53321
+WebDriver BiDi listening on ws://localhost:53315
+1667481169157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofileW6JwZR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53315/devtools/browser/8bd0313c-430b-4132-908a-7d22170b664e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667481221205	Marionette	INFO	Stopped listening on port 53321
+1667481272255	geckodriver	INFO	Listening on 127.0.0.1:53733
+1667481275312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53734" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofile45RuBo"
+1667481276105	Marionette	INFO	Marionette enabled
+1667481276113	Marionette	INFO	Listening on port 53739
+WebDriver BiDi listening on ws://localhost:53734
+1667481276644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofile45RuBo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53734/devtools/browser/e1a274bd-78fb-4007-af5e-1c7f787d3198
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667481334647	Marionette	INFO	Stopped listening on port 53739
+1667481351615	geckodriver	INFO	Listening on 127.0.0.1:54170
+1667481354707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54171" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofilefR6VDn"
+1667481355229	Marionette	INFO	Marionette enabled
+1667481355236	Marionette	INFO	Listening on port 54177
+WebDriver BiDi listening on ws://localhost:54171
+1667481355828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofilefR6VDn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54171/devtools/browser/fd5276d3-78a0-4267-884d-7058526cbc47
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667481405659	Marionette	INFO	Stopped listening on port 54177
+1667482567943	geckodriver	INFO	Listening on 127.0.0.1:55159
+1667482570980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55160" "-no-remote" "-profile" "C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofilelsWtfj"
+1667482571575	Marionette	INFO	Marionette enabled
+1667482571581	Marionette	INFO	Listening on port 55165
+WebDriver BiDi listening on ws://localhost:55160
+1667482572086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SANKET~1.SHA\\AppData\\Local\\Temp\\rust_mozprofilelsWtfj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55160/devtools/browser/75b14f9e-fd65-40e3-9aa9-7f83eb2c47de
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.sanketh.io."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1667482623117	Marionette	INFO	Stopped listening on port 55165
