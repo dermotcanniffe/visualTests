@@ -29,7 +29,7 @@ class test_SeleniumTests(unittest.TestCase):
             'version': '106',
         	'bitbar:options': 
             {
-        		'apiKey': 'YQk735XyplR3PbqLwKYGFswltGXaYU4y',
+        		'apiKey': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
         		'resolution': '2560x1920',
         		'osVersion': '18.04'
             },
