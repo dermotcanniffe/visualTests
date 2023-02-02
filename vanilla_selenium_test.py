@@ -20,7 +20,7 @@ class test_SeleniumTests(unittest.TestCase):
     def setUpClass(self):
         "Tests"
         settings = {
-            'projectToken': 'Ma9MwAvV/Va0qvQf6eMg=',
+            'projectToken': 'XXXXXXXXX/XXXXXXX',
             'saveTo': resultsPath,
             'debugImages': False,
             'debugLogs': False,
